@@ -3,6 +3,7 @@ https://www.aparat.com/Ehsan2022002
 
 
 دیتاست های موجود 
+
 https://yann.lecun.com/exdb/mnist/
 مجموعه ارقام دست نویس
 
